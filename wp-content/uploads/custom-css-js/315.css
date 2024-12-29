@@ -1,0 +1,27 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+.nav>li>a, .nav-dropdown>li>a, .nav-column>li>a {
+  color: #000000;
+}
+a.plain {
+   color: #000000;
+}
+.absolute-footer {
+   color: rgb(0 0 0);
+}
+.breadcrumbs{
+	text-align: left;
+    justify-content: left;
+	font-size: 1rem;
+}
+    </style>
+<!-- end Simple Custom CSS and JS -->

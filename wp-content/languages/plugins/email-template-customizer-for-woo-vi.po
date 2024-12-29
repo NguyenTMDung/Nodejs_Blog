@@ -1,0 +1,992 @@
+# Translation of Plugins - Email Template Customizer for WooCommerce - Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Plugins - Email Template Customizer for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-26 04:30:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Email Template Customizer for WooCommerce - Development (trunk)\n"
+
+#: includes/email-builder.php:356
+msgid "Mailing Error Found:"
+msgstr "Đã tìm thấy lỗi gửi Mail"
+
+#: includes/i18n.php:114
+msgid "Remove product link"
+msgstr "Xóa đường dẫn sản phẩm"
+
+#: includes/i18n.php:113
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: includes/email-builder.php:584
+msgid "Email Template Customize"
+msgstr "Email Template Customize"
+
+#: includes/templates/email-type.php:55
+msgid "Right to left"
+msgstr "Phải qua trái"
+
+#: includes/templates/email-type.php:54
+msgid "Left to right"
+msgstr "Trái qua phải"
+
+#: includes/templates/email-type.php:49
+msgid "Direction"
+msgstr "Hướng"
+
+#: includes/email-render.php:886 includes/templates/email-editor.php:642
+msgid "Other plugin information"
+msgstr "Thông tin plugin khác"
+
+#: includes/email-render.php:936 includes/templates/email-editor.php:634
+msgid "Thank you for your order"
+msgstr "Cảm ơn bạn đã đặt hàng"
+
+#: includes/templates/email-editor.php:586
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/templates/email-editor.php:542
+msgid "[Order #123]"
+msgstr "[Đơn hàng #123]"
+
+#: includes/templates/email-editor.php:539
+msgid "Hi John, Just to let you know — we've received your order #859, and it is now being processed:"
+msgstr "Xin chào John, Xin thông báo cho bạn biết — chúng tôi đã nhận được đơn đặt hàng #859 của bạn và đơn hàng hiện đang được xử lý:"
+
+#: includes/templates/email-editor.php:589
+msgid "Total:"
+msgstr "Tổng:"
+
+#: includes/templates/email-editor.php:585
+msgid "Payment method:"
+msgstr "Phương thức Thanh toán:"
+
+#: includes/templates/email-editor.php:582
+msgid "Free shipping"
+msgstr "Miễn phí giao hàng"
+
+#: includes/templates/email-editor.php:581
+msgid "Shipping:"
+msgstr "Vận chuyển:"
+
+#: includes/templates/email-editor.php:573
+msgid "Subtotal:"
+msgstr "Tạm tính:"
+
+#: includes/templates/email-editor.php:163
+msgid "Paste"
+msgstr "Dán"
+
+#: includes/templates/email-editor.php:16
+msgid "Custom CSS"
+msgstr "Css tùy chỉnh"
+
+#: includes/email-builder.php:558
+msgid "Edit with WC Email Template Customizer - Default template"
+msgstr "Chỉnh sửa với WC Email Template Customizer - Mẫu mặc định"
+
+#: includes/i18n.php:112
+msgid "Font weight"
+msgstr "Độ đậm"
+
+#: includes/i18n.php:111
+msgid "Font size(px)"
+msgstr "Cỡ chữ (px)"
+
+#: includes/i18n.php:110
+msgid "Show SKU"
+msgstr "Hiện mã SKU"
+
+#: includes/email-builder.php:564 includes/i18n.php:109
+msgid "Enable"
+msgstr "Kích hoạt"
+
+#: includes/i18n.php:108
+msgid "Auto add to cart in product URL"
+msgstr "Tự động thêm vào giỏ hàng trong URL sản phẩm"
+
+#: includes/init.php:108 includes/init.php:121 includes/init.php:134
+#: includes/init.php:147 includes/init.php:160 includes/init.php:173
+#: includes/init.php:185 includes/init.php:198
+msgid "White - Color"
+msgstr "Trắng - Màu"
+
+#: includes/email-builder.php:565 includes/init.php:99 includes/init.php:112
+#: includes/init.php:125 includes/init.php:138 includes/init.php:151
+#: includes/init.php:164 includes/init.php:176 includes/init.php:189
+msgid "Disable"
+msgstr "Hủy kích hoạt"
+
+#: includes/email-builder.php:673
+msgid "View detail in document."
+msgstr "Xem chi tiết trong tài liệu này"
+
+#: includes/email-builder.php:671
+msgid "To display the content of the 3rd plugins (Checkout Field Editor, Flexible Checkout Fields,...), drag and drop the WC Hook element to the position which you want to display it in email template."
+msgstr "Để hiển thị nội dung được tao bởi plugin thứ ba (Checkout Field Editor, Flexible Checkout Fields,...) kéo và thả phần tử WC Hook vào vị trí bạn muốn hiển thị nội dung đó trong thư."
+
+#: includes/support/survey.php:88
+msgid "Cancel"
+msgstr "Hủy"
+
+#: includes/support/survey.php:87
+msgid "Submit & Deactivate"
+msgstr "Nộp & Hủy kích hoạt"
+
+#: includes/support/survey.php:86
+msgid "I rather wouldn't say"
+msgstr "Tôi không muốn nói..."
+
+#: includes/support/survey.php:71
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Nếu bạn có thời gian, chia sẻ cho VillaTheme biết vì sao bạn tắt plugin nhé:"
+
+#: includes/support/survey.php:53
+msgid "Could you tell us a bit more?"
+msgstr "Bạn có thể chia sẻ cụ thể hơn được không?"
+
+#: includes/support/survey.php:51
+msgid "Other"
+msgstr "Khác"
+
+#: includes/support/survey.php:47
+msgid "What did you expect?"
+msgstr "Bạn đang mong đợi điều gì?"
+
+#: includes/support/survey.php:45
+msgid "The plugin didn't work as expected"
+msgstr "Plugin không hoạt động như mong đợi"
+
+#: includes/support/survey.php:39
+msgid "It's not what I was looking for"
+msgstr "Đây không phải plugin tôi đang tìm kiếm"
+
+#: includes/support/survey.php:35
+msgid "Could you tell us a bit more whats not working?"
+msgstr "Bạn có thể cho VillaTheme biết tính năng nào đang không hoạt động?"
+
+#: includes/support/survey.php:33
+msgid "The plugin is not working"
+msgstr "Plugin không hoạt động"
+
+#: includes/support/survey.php:29
+msgid "Could you tell us more about that feature?"
+msgstr "Bạn có thể nói thêm về tính năng đó được không?"
+
+#: includes/support/survey.php:27
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Plugin rất tốt, nhưng tôi cần tính năng mà bạn đang không hỗ trợ"
+
+#: includes/support/survey.php:23
+msgid "Which plugin?"
+msgstr "Cho VillaTheme biết đó là plugin nào nhé?"
+
+#: includes/support/survey.php:21
+msgid "I found a better plugin"
+msgstr "Tôi tìm thấy một plugin tốt hơn"
+
+#: includes/support/survey.php:17
+msgid "Would you like us to assist you?"
+msgstr "Bạn có đang cần hỗ trợ không?"
+
+#: includes/support/survey.php:15
+msgid "I couldn't understand how to make it work"
+msgstr "Tôi không biết cách làm plugin hoạt động"
+
+#: includes/compatible.php:41
+msgid "Correios Tracking Code"
+msgstr "Mã theo dõi Correios"
+
+#: includes/utils.php:199
+msgid "Default template"
+msgstr "Mẫu mặc định"
+
+#: includes/email-builder.php:435 includes/email-builder.php:670
+msgid "Note"
+msgstr "Ghi chú"
+
+#: includes/email-builder.php:160
+msgid "Admin's note for this template"
+msgstr "Ghi chú của quản trị viên cho mẫu này"
+
+#: includes/templates/email-editor.php:635
+msgid "The heading of original email will be transferred here"
+msgstr "Tiêu đề của email gốc sẽ được chuyển vào đây"
+
+#: includes/email-samples.php:25
+msgid "This template will be used in the case of none detected template and the subject will be get from original email"
+msgstr "Mẫu thư này được sử dụng khi không phát hiện được mẫu thư và tiêu đề nào phù hợp với thư gốc"
+
+#: includes/i18n.php:102
+msgid "Socials"
+msgstr "Các mạng xã hội"
+
+#: includes/i18n.php:101
+msgid "Horizontal"
+msgstr "Ngang"
+
+#: includes/i18n.php:100
+msgid "Vertical"
+msgstr "Dọc"
+
+#: includes/i18n.php:99
+msgid "Column ratio"
+msgstr "Tỷ lệ cột"
+
+#: includes/i18n.php:98
+msgid "Refunded partial"
+msgstr "Hoàn tiền một phần"
+
+#: includes/i18n.php:97
+msgid "Refunded fully"
+msgstr "Hoàn tiền toàn bộ"
+
+#: includes/i18n.php:96
+msgid "Order items"
+msgstr "Sản phẩm đặt hàng"
+
+#: includes/i18n.php:95
+msgid "Select"
+msgstr "Chọn"
+
+#: includes/i18n.php:94
+msgid "Do you want to change email template?"
+msgstr "Bạn có muốn thay đổi mẫu thư không?"
+
+#: includes/i18n.php:93
+msgid "Post distance"
+msgstr "Khoảng cách bài đăng"
+
+#: includes/i18n.php:92
+msgid "Post content"
+msgstr "Nội dụng bài đăng"
+
+#: includes/i18n.php:91
+msgid "Post title"
+msgstr "Tiêu đề bài đăng"
+
+#: includes/i18n.php:90
+msgid "Exclude posts"
+msgstr "Loại trừ bài đăng"
+
+#: includes/i18n.php:89
+msgid "Include posts"
+msgstr "Bao gồm bài đăng"
+
+#: includes/i18n.php:88
+msgid "All category"
+msgstr "Tất cả danh mục"
+
+#: includes/i18n.php:87
+msgid "Product distance"
+msgstr "Khoảng cách sản phẩm"
+
+#: includes/i18n.php:86 includes/templates/email-editor.php:561
+msgid "Product name"
+msgstr "Tên sản phẩm"
+
+#: includes/i18n.php:85
+msgid "Product type"
+msgstr "Loại sản phẩm"
+
+#: includes/i18n.php:84
+msgid "Charracter limit"
+msgstr "Giới hạn ký tự"
+
+#: includes/i18n.php:83
+msgid "Column"
+msgstr "Cột"
+
+#: includes/i18n.php:82
+msgid "Max row"
+msgstr "Số hàng tối đa"
+
+#: includes/i18n.php:81
+msgid "Newest"
+msgstr "Mới nhất"
+
+#: includes/i18n.php:80
+msgid "Best rated"
+msgstr "Được đánh giá tốt nhất"
+
+#: includes/i18n.php:79
+msgid "Best seller"
+msgstr "Bán chạy nhất"
+
+#: includes/i18n.php:78
+msgid "Cross sell"
+msgstr "Bán chéo"
+
+#: includes/i18n.php:77
+msgid "Up sell"
+msgstr "Gia tăng"
+
+#: includes/i18n.php:76
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: includes/i18n.php:75
+msgid "On sale"
+msgstr "Đang giảm giá"
+
+#: includes/i18n.php:74
+msgid "Category"
+msgstr "Danh mục"
+
+#: includes/i18n.php:73
+msgid "Related"
+msgstr "Liên quan đến"
+
+#: includes/i18n.php:72
+msgid "Style"
+msgstr "Thiết kế"
+
+#: includes/i18n.php:71
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: includes/i18n.php:70
+msgid "Last column width"
+msgstr "Chiều rộng của cột cuối cùng"
+
+#: includes/i18n.php:66
+msgid "Horizontal text"
+msgstr "Hiển thị theo chiều ngang"
+
+#: includes/i18n.php:65
+msgid "Vertical text"
+msgstr "Hiển thị theo chiều dọc"
+
+#: includes/i18n.php:64
+msgid "Default"
+msgstr "Mặc định"
+
+#: includes/i18n.php:63
+msgid "Translate text"
+msgstr "Dịch văn bản"
+
+#: includes/i18n.php:62
+msgid "Template"
+msgstr "Mẫu thư"
+
+#: includes/i18n.php:61
+msgid "Exclude sale items"
+msgstr "Loại trừ các sản phẩm đang giảm giá"
+
+#: includes/i18n.php:60
+msgid "Individual use only"
+msgstr "Chỉ dùng cho cá nhân"
+
+#: includes/i18n.php:59
+msgid "Allow free shipping"
+msgstr "Cho phép miễn phí vận chuyển"
+
+#: includes/i18n.php:58
+msgid "Usage limit per user"
+msgstr "Giới hạn sử dụng trên mỗi người dùng"
+
+#: includes/i18n.php:57
+msgid "Limit usage to X items"
+msgstr "Giới hạn sử dụng với sản phẩm X"
+
+#: includes/i18n.php:56
+msgid "Usage limit per coupon"
+msgstr "Giới hạn sử dụng cho mỗi mã giảm giá"
+
+#: includes/i18n.php:55
+msgid "Exclude categories"
+msgstr "Loại trừ danh mục"
+
+#: includes/i18n.php:54
+msgid "Categories"
+msgstr "Các danh mục"
+
+#: includes/i18n.php:53
+msgid "Exclude products"
+msgstr "Loại trừ sản phẩm"
+
+#: includes/i18n.php:52
+msgid "Maximum spend"
+msgstr "Chi tiêu tối đa"
+
+#: includes/i18n.php:51
+msgid "Minimum spend"
+msgstr "Chi tiêu tối thiểu"
+
+#: includes/i18n.php:50
+msgid "Expire after x days"
+msgstr "Hết hạn sau X ngày"
+
+#: includes/i18n.php:49
+msgid "Fixed product discount"
+msgstr "Giảm giá sản phẩm cố định"
+
+#: includes/i18n.php:48
+msgid "Fixed cart discount"
+msgstr "Giảm giá cố định trong giỏ hàng"
+
+#: includes/i18n.php:47
+msgid "Percentage discount"
+msgstr "Phần trăm giảm giá"
+
+#: includes/i18n.php:46
+msgid "Coupon amount"
+msgstr "Giá trị mã giảm"
+
+#: includes/i18n.php:45
+msgid "Discount type"
+msgstr "Loại phiếu giảm giá"
+
+#: includes/i18n.php:44
+msgid "Generate coupon"
+msgstr "Tạo mã giảm giá"
+
+#: includes/i18n.php:43
+msgid "Existing coupon"
+msgstr "Phiếu giảm giá hiện có"
+
+#: includes/i18n.php:42
+msgid "Select coupon"
+msgstr "Chọn phiếu giảm giá"
+
+#: includes/i18n.php:41
+msgid "Coupon type"
+msgstr "Loại mã giảm giá"
+
+#: includes/i18n.php:40
+msgid "Spacer"
+msgstr "Khoảng cách"
+
+#: includes/i18n.php:39
+msgid "Divider"
+msgstr "Đường phân cách"
+
+#: includes/i18n.php:38
+msgid "Social"
+msgstr "Mạng xã hội"
+
+#: includes/i18n.php:37
+msgid "Menu bar"
+msgstr "Thanh menu"
+
+#: includes/i18n.php:36
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: includes/i18n.php:35
+msgid "Post"
+msgstr "Bài đăng"
+
+#: includes/i18n.php:34
+msgid "Coupon"
+msgstr "Mã giảm giá"
+
+#: includes/i18n.php:33
+msgid "Products"
+msgstr "Các sản phẩm"
+
+#: includes/i18n.php:32 includes/templates/email-editor.php:618
+msgid "Shipping address"
+msgstr "Địa chỉ giao hàng"
+
+#: includes/i18n.php:31 includes/templates/email-editor.php:605
+msgid "Billing address"
+msgstr "Địa chỉ thanh toán"
+
+#: includes/email-render.php:493 includes/i18n.php:28
+msgid "Total"
+msgstr "Tổng"
+
+#: includes/i18n.php:26
+msgid "Order total"
+msgstr "Tổng thanh toán"
+
+#: includes/i18n.php:25
+msgid "Order subtotal"
+msgstr "Tổng giá trị sản phẩm"
+
+#: includes/i18n.php:24
+msgid "Order detail"
+msgstr "Chi tiết đơn hàng"
+
+#: includes/i18n.php:23
+msgid "Button"
+msgstr "Nút"
+
+#: includes/i18n.php:22
+msgid "Image"
+msgstr "Ảnh"
+
+#: includes/i18n.php:21
+msgid "Text"
+msgstr "Văn bản"
+
+#: includes/i18n.php:20
+msgid "4 Columns"
+msgstr "4 cột"
+
+#: includes/i18n.php:19
+msgid "3 Columns"
+msgstr "3 cột"
+
+#: includes/i18n.php:18
+msgid "2 Columns"
+msgstr "2 cột"
+
+#: includes/i18n.php:17
+msgid "1 Column"
+msgstr "1 cột"
+
+#: includes/i18n.php:16
+msgid "Select email type"
+msgstr "Chọn loại email"
+
+#: includes/i18n.php:15
+msgid "Content"
+msgstr "Nội dung"
+
+#: includes/i18n.php:14
+msgid "Layout"
+msgstr "Bố cục"
+
+#: includes/i18n.php:13
+msgid "Sample"
+msgstr "Thư mẫu"
+
+#: includes/utils.php:239
+msgid "Flat rate"
+msgstr "Đồng giá"
+
+#: includes/utils.php:234
+msgid "Paypal"
+msgstr "PayPal"
+
+#: includes/utils.php:226
+msgid "Order note"
+msgstr "Ghi chú của đơn hàng"
+
+#: includes/utils.php:221
+msgid "Doe"
+msgstr "Doe"
+
+#: includes/utils.php:219
+msgid "John"
+msgstr "John"
+
+#: includes/i18n.php:103 includes/utils.php:217
+msgid "Customer note"
+msgstr "Ghi chú của khách hàng"
+
+#: includes/utils.php:216
+msgid "John Doe"
+msgstr "John Doe"
+
+#: includes/email-samples.php:50 includes/email-samples.php:57
+#: includes/email-samples.php:64 includes/email-samples.php:71
+#: includes/email-samples.php:78 includes/email-samples.php:84
+#: includes/email-samples.php:91 includes/email-samples.php:98
+#: includes/email-samples.php:105 includes/email-samples.php:112
+#: includes/email-samples.php:119 includes/email-samples.php:126
+#: includes/email-samples.php:133 includes/email-samples.php:140
+#: includes/email-samples.php:147 includes/i18n.php:12
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: includes/templates/email-editor.php:22
+msgid "Search element"
+msgstr "Tìm kiếm phần tử"
+
+#: includes/templates/email-editor.php:111
+msgid "Background"
+msgstr "Phông nền"
+
+#: includes/init.php:107 includes/init.php:120 includes/init.php:133
+#: includes/init.php:146 includes/init.php:159 includes/init.php:172
+#: includes/init.php:184 includes/init.php:197
+msgid "Black - White"
+msgstr "Đen - Trắng"
+
+#: includes/init.php:106 includes/init.php:119 includes/init.php:132
+#: includes/init.php:145 includes/init.php:158 includes/init.php:171
+#: includes/init.php:183 includes/init.php:196
+msgid "Color - White"
+msgstr "Màu - Trắng"
+
+#: includes/init.php:105 includes/init.php:118 includes/init.php:131
+#: includes/init.php:144 includes/init.php:157 includes/init.php:170
+#: includes/init.php:182 includes/init.php:195
+msgid "Color border"
+msgstr "Viền có màu"
+
+#: includes/init.php:104 includes/init.php:117 includes/init.php:130
+#: includes/init.php:143 includes/init.php:156 includes/init.php:169
+#: includes/init.php:181 includes/init.php:194
+msgid "Black border"
+msgstr "Viền đen"
+
+#: includes/init.php:103 includes/init.php:116 includes/init.php:129
+#: includes/init.php:142 includes/init.php:155 includes/init.php:168
+#: includes/init.php:180 includes/init.php:193
+msgid "White border"
+msgstr "Viền trắng"
+
+#: includes/init.php:102 includes/init.php:115 includes/init.php:128
+#: includes/init.php:141 includes/init.php:154 includes/init.php:167
+#: includes/init.php:179 includes/init.php:192
+msgid "Color"
+msgstr "Màu sắc"
+
+#: includes/init.php:69 includes/init.php:77 includes/init.php:85
+#: includes/init.php:93
+msgid "White/Black"
+msgstr "Trắng/Đen"
+
+#: includes/init.php:68 includes/init.php:76 includes/init.php:84
+#: includes/init.php:92
+msgid "Black/White"
+msgstr "Đen/Trắng"
+
+#: includes/init.php:67 includes/init.php:75 includes/init.php:83
+#: includes/init.php:91
+msgid "Black/Border"
+msgstr "Đen/Có viền"
+
+#: includes/init.php:66 includes/init.php:74 includes/init.php:82
+#: includes/init.php:90
+msgid "White/Border"
+msgstr "Trắng/Có viền"
+
+#: includes/init.php:65 includes/init.php:73 includes/init.php:81
+#: includes/init.php:89 includes/init.php:101 includes/init.php:114
+#: includes/init.php:127 includes/init.php:140 includes/init.php:153
+#: includes/init.php:166 includes/init.php:178 includes/init.php:191
+msgid "White"
+msgstr "Trắng"
+
+#: includes/init.php:64 includes/init.php:72 includes/init.php:80
+#: includes/init.php:88 includes/init.php:100 includes/init.php:113
+#: includes/init.php:126 includes/init.php:139 includes/init.php:152
+#: includes/init.php:165 includes/init.php:177 includes/init.php:190
+msgid "Black"
+msgstr "Đen"
+
+#: includes/utils.php:193
+msgid "paid"
+msgstr "Đã thanh toán"
+
+#: includes/utils.php:192
+msgid "pending"
+msgstr "Đang chờ"
+
+#: includes/utils.php:191
+msgid "full"
+msgstr "đầy đủ"
+
+#: includes/utils.php:190
+msgid "partial"
+msgstr "một phần"
+
+#: includes/email-builder.php:555
+msgid "Edit with WC Email Template Customizer"
+msgstr "Chỉnh sửa với EC Email Template Customizer"
+
+#: includes/email-builder.php:530
+msgid "Add Email Subject"
+msgstr "Thêm Tiêu đề Email"
+
+#: includes/email-builder.php:508
+msgid "Filter by type"
+msgstr "Lọc theo loại"
+
+#: includes/email-builder.php:469
+msgid "Duplicate"
+msgstr "Nhân bản"
+
+#: includes/email-builder.php:436
+msgid "Date"
+msgstr "Ngày tháng"
+
+#: includes/email-builder.php:434
+msgid "Recipient"
+msgstr "Người nhận"
+
+#: includes/email-builder.php:433
+msgid "Type"
+msgstr "Thể loại"
+
+#: includes/email-builder.php:432
+msgid "Email subject"
+msgstr "Tiêu đề thư"
+
+#: includes/email-builder.php:362
+msgid "Email was sent successfully"
+msgstr "Thư đã được gửi thành công"
+
+#: includes/email-builder.php:348
+msgid "WooCommerce Email Customizer test email template"
+msgstr "Thư gửi thử nghiệm từ WooCommerce Email Template Customizer"
+
+#: includes/email-builder.php:255
+msgid "Copy"
+msgstr "Sao chép"
+
+#: includes/email-builder.php:254
+msgid "Export"
+msgstr "Xuất"
+
+#: includes/email-builder.php:253
+msgid "Import"
+msgstr "Nhập"
+
+#: includes/email-builder.php:164
+msgid "Data"
+msgstr "Dữ liệu"
+
+#: includes/email-builder.php:156
+msgid "Testing"
+msgstr "Thử nghiệm"
+
+#: includes/email-builder.php:152
+msgid "Rules"
+msgstr "Quy tắc"
+
+#: includes/email-builder.php:148
+msgid "Email type"
+msgstr "Loại email"
+
+#: includes/email-builder.php:106
+msgid "Not found in Trash"
+msgstr "Không tìm thấy trong Thùng rác"
+
+#: includes/email-builder.php:105
+msgid "Not Found"
+msgstr "Không tìm thấy"
+
+#: includes/email-builder.php:104
+msgid "Search Email Templates"
+msgstr "Tìm kiếm mẫu email"
+
+#: includes/email-builder.php:103
+msgid "Update Email Templates"
+msgstr "Cập nhật Mẫu Thư"
+
+#: includes/email-builder.php:102
+msgid "Edit Email Templates"
+msgstr "Chỉnh sửa mẫu thư"
+
+#: includes/email-builder.php:101
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: includes/email-builder.php:100
+msgid "Add New Email Template"
+msgstr "Tạo mẫu thư mới"
+
+#: includes/email-builder.php:99
+msgid "All Emails"
+msgstr "Tất cả thư"
+
+#: includes/email-builder.php:98
+msgid "Parent Email"
+msgstr "email cha"
+
+#: includes/email-builder.php:97 includes/email-builder.php:110
+msgid "Email Templates"
+msgstr "Thư mẫu"
+
+#: includes/email-builder.php:96
+msgctxt "Post Type Singular Name"
+msgid "Email Templates"
+msgstr "Email Templates"
+
+#: includes/email-builder.php:95
+msgctxt "Post Type General Name"
+msgid "Email Templates"
+msgstr "Email Templates"
+
+#: includes/templates/email-rules.php:29
+msgid "Apply to max order"
+msgstr "Áp dụng cho đơn hàng tối đa"
+
+#: includes/templates/email-rules.php:23
+msgid "Apply to min order"
+msgstr "Áp dụng cho đơn hàng tối thiểu"
+
+#: includes/templates/email-rules.php:17
+msgid "Apply to categories"
+msgstr "Áp dụng với danh mục"
+
+#: includes/templates/email-rules.php:12
+msgid "Apply to billing countries"
+msgstr "Áp dụng với quốc gia thanh toán"
+
+#: includes/templates/email-editor.php:280
+#: includes/templates/email-editor.php:317
+msgid "Clear"
+msgstr "Loại bỏ"
+
+#: includes/templates/email-editor.php:166
+msgid "Edit column"
+msgstr "Chỉnh sửa cột"
+
+#: includes/templates/email-editor.php:118
+msgid "Select layout"
+msgstr "Chọn bố cục"
+
+#: includes/templates/email-editor.php:98
+msgid "Save Draft"
+msgstr "Lưu Nháp"
+
+#: includes/templates/email-editor.php:85
+#: includes/templates/email-editor.php:86
+msgid "Update"
+msgstr "Cập nhật"
+
+#: includes/templates/email-editor.php:79
+#: includes/templates/email-editor.php:81
+msgid "Publish"
+msgstr "Đăng"
+
+#: includes/templates/email-editor.php:72
+msgid "Move to trash"
+msgstr "Chuyển đến thùng rác"
+
+#: includes/templates/email-editor.php:65
+msgid "Copy to draft"
+msgstr "Sao chép đến bản nháp"
+
+#: includes/templates/email-editor.php:59
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: includes/templates/email-editor.php:55
+msgid "Toggle admin menu"
+msgstr "Thu gọn trình quản trị viên"
+
+#: includes/templates/email-editor.php:50
+msgid "Exit to DashBoard"
+msgstr "Quay về trang chủ"
+
+#: includes/templates/email-editor.php:15
+msgid "Editor"
+msgstr "Chỉnh sửa"
+
+#: includes/templates/email-editor.php:14
+msgid "Components"
+msgstr "Thành phần"
+
+#: includes/templates/email-testing.php:67
+msgid "View mobile version (width < 414px)"
+msgstr "Xem trên thiết bị điện thoại (chiều rộng < 414px)"
+
+#: includes/templates/email-testing.php:63
+msgid "Desktop & mobile (width > 414px)"
+msgstr "Máy tính & điện thoại (bề rộng > 414px)"
+
+#: includes/templates/email-testing.php:29
+#: includes/templates/email-testing.php:59
+msgid "Preview"
+msgstr "Xem trước"
+
+#: includes/templates/email-testing.php:47
+#: includes/templates/email-testing.php:71
+msgid "Send test email"
+msgstr "Gửi thư thử nghiệm"
+
+#: includes/templates/email-testing.php:36
+msgid "Preview width device screen width < 414px"
+msgstr "Xem trước với thiết bị có chiều rộng màn hình < 414px"
+
+#: includes/templates/email-testing.php:32
+msgid "Preview width device screen width > 414px"
+msgstr "Xem trước với thiết bị có chiều rộng màn hình > 414px"
+
+#: includes/templates/email-testing.php:43
+msgid "Send to"
+msgstr "Gửi tới"
+
+#: includes/templates/email-testing.php:8
+msgid "Select order"
+msgstr "Chọn đơn hàng"
+
+#: includes/i18n.php:69 includes/i18n.php:106
+#: includes/templates/email-editor.php:553
+#: includes/templates/order-items/pre-style-1.php:11
+#: includes/templates/order-items/style-1.php:10
+msgid "Price"
+msgstr "Giá"
+
+#: includes/i18n.php:67 includes/i18n.php:107
+#: includes/templates/email-editor.php:552
+#: includes/templates/order-items/pre-style-1.php:10
+#: includes/templates/order-items/style-1.php:9
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: includes/i18n.php:68 includes/templates/email-editor.php:551
+#: includes/templates/order-items/pre-style-1.php:9
+#: includes/templates/order-items/style-1.php:8
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: includes/email-builder.php:454 includes/templates/email-type.php:32
+msgid "Customer"
+msgstr "Khách hàng"
+
+#: includes/templates/email-type.php:20
+msgid "Admin"
+msgstr "Quản trị viên"
+
+#: includes/email-render.php:554 includes/i18n.php:30
+msgid "Payment method"
+msgstr "Phương thức thanh toán"
+
+#: includes/email-render.php:534 includes/i18n.php:29
+msgid "Shipping method"
+msgstr "Phương thức giao hàng"
+
+#: includes/i18n.php:27
+msgid "Shipping"
+msgstr "Giao hàng"
+
+#: includes/i18n.php:105
+msgid "Discount"
+msgstr "Phiếu giảm giá"
+
+#: includes/i18n.php:104 includes/templates/email-rules.php:7
+msgid "Subtotal"
+msgstr "Tổng giá trị sản phẩm"
+
+#: includes/functions.php:90
+msgid "Unlock this feature"
+msgstr "Mở khóa tính năng này"
+
+#: email-template-customizer-for-woo.php:123
+msgid "Settings"
+msgstr "Cài đặt"
+
+#. Author URI of the plugin
+#: email-template-customizer-for-woo.php
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#. Author of the plugin
+#: email-template-customizer-for-woo.php
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#. Plugin URI of the plugin
+#: email-template-customizer-for-woo.php
+msgid "https://villatheme.com/extensions/woocommerce-email-template-customizer/"
+msgstr "https://villatheme.com/extensions/woocommerce-email-template-customizer/"
+
+#. Plugin Name of the plugin
+#: email-template-customizer-for-woo.php
+msgid "Email Template Customizer for WooCommerce"
+msgstr "Email Template Customizer for WooCommerce"

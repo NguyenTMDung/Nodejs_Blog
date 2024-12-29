@@ -1,0 +1,38 @@
+12-28-2024 @ 14:36:04 - ---[ New import started at 2024-12-28 07:36:04 ] PHP Memory: 1 GB, WP Memory: 40 MB
+12-28-2024 @ 14:36:04 - Preparing for import.
+12-28-2024 @ 14:36:04 - Row :1 - Parsing item.
+12-28-2024 @ 14:36:04 - Importing as new product ID:625
+12-28-2024 @ 14:36:04 - Row :1 - Processing item.
+12-28-2024 @ 14:36:04 - Found simple product object. ID:625
+12-28-2024 @ 14:36:04 - Setting Featured Image. URL:https://www.sephora.com/productimages/sku/s2790962-main-zoom.jpg?imwidth=48 1x
+12-28-2024 @ 14:36:04 - Attachment ID:583
+12-28-2024 @ 14:36:05 - Row :1 - Product imported successfully.
+12-28-2024 @ 14:36:05 - Row :2 - Parsing item.
+12-28-2024 @ 14:36:05 - Importing as new product ID:626
+12-28-2024 @ 14:36:05 - Row :2 - Processing item.
+12-28-2024 @ 14:36:05 - Found simple product object. ID:626
+12-28-2024 @ 14:36:05 - Setting Featured Image. URL:https://www.sephora.com/productimages/sku/s2821700-main-zoom.jpg?imwidth=48 1x
+12-28-2024 @ 14:36:05 - Attachment ID:596
+12-28-2024 @ 14:36:05 - Row :2 - Product imported successfully.
+12-28-2024 @ 14:36:05 - Row :3 - Parsing item.
+12-28-2024 @ 14:36:05 - Importing as new product ID:627
+12-28-2024 @ 14:36:05 - Row :3 - Processing item.
+12-28-2024 @ 14:36:05 - Found simple product object. ID:627
+12-28-2024 @ 14:36:05 - Setting Featured Image. URL:https://www.sephora.com/productimages/sku/s1019983-main-zoom.jpg?imwidth=48 1x
+12-28-2024 @ 14:36:05 - Attachment ID:605
+12-28-2024 @ 14:36:06 - Row :3 - Product imported successfully.
+12-28-2024 @ 14:36:06 - Row :4 - Parsing item.
+12-28-2024 @ 14:36:06 - Importing as new product ID:628
+12-28-2024 @ 14:36:06 - Row :4 - Processing item.
+12-28-2024 @ 14:36:06 - Found simple product object. ID:628
+12-28-2024 @ 14:36:06 - Setting Featured Image. URL:https://www.sephora.com/productimages/sku/s1112481-main-zoom.jpg?imwidth=48 1x
+12-28-2024 @ 14:36:06 - Attachment ID:610
+12-28-2024 @ 14:36:06 - Row :4 - Product imported successfully.
+12-28-2024 @ 14:36:06 - Row :5 - Parsing item.
+12-28-2024 @ 14:36:06 - Importing as new product ID:629
+12-28-2024 @ 14:36:06 - Row :5 - Processing item.
+12-28-2024 @ 14:36:06 - Found simple product object. ID:629
+12-28-2024 @ 14:36:06 - Setting Featured Image. URL:https://www.sephora.com/productimages/sku/s1200716-main-zoom.jpg?imwidth=48 1x
+12-28-2024 @ 14:36:06 - Attachment ID:615
+12-28-2024 @ 14:36:07 - Row :5 - Product imported successfully.
+12-28-2024 @ 14:36:07 - ---[ Import ended at 2024-12-28 07:36:07]---
